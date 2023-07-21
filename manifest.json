@@ -1,0 +1,12 @@
+{
+  "name": "{{Your plugin name}}",
+  "id": "{{Your plugin ID}}",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "ui": "dist/ui.html"
+}
