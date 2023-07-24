@@ -1,3 +1,5 @@
+![cover.png](cover.png)
+
 # Figma Translator Vue Plugin Sample
 
 ![sample.gif](sample.gif)
