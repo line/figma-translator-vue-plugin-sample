@@ -9,7 +9,7 @@ This repository contains the source code for a translation plugin that works in 
 The plugin is built using Vue.js, and it allows you to select a text element in Figma and translate that text into the
 language of your choice.
 
-Note: that the plugin does not include the translation API functionality itself. You will need to
+Note that the plugin does not include the translation API functionality itself. You will need to
 implement [this part](https://github.com/line/figma-translator-vue-plugin-sample/blob/main/src/code.ts#L65)
 yourself. To do this, you can use a third-party translation API, such as Papago API or Google Cloud Translate API.
 
@@ -36,4 +36,4 @@ You can develop this plugin by following these steps:
    ```bash
    npm run build
    ```
-6. The final files can be found in the `dist folder.
+6. The final files can be found in the `dist` folder.
